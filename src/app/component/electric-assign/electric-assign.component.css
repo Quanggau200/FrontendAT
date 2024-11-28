@@ -1,0 +1,133 @@
+.container
+{
+     font-family: 'Inter';
+     height: 100%;
+     margin: 0;
+     overflow: hidden;
+
+
+}
+.header-setting
+{
+    margin: 10px 10px;
+    color: black;
+    font-size: 20px;
+}
+.col
+{
+    margin-top: 2px;
+}
+.space
+{
+    height: 1vh;
+    background-color: #F2F4F7;
+}
+.img-responsive
+{
+    text-align: left;
+    
+}
+
+.progress-bar
+{
+ 
+    background-color:  rgb(236, 222, 222);
+    height: 0.5vh;
+    width: 70%;
+    border-radius: 10px;
+
+}
+.progress-steps {
+    margin-top: 20px;
+    display: flex; /* Sử dụng Flexbox */
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: center; /* Căn giữa theo chiều dọc */
+  }
+  
+  .content-wrapper {
+    display: flex; /* Hiển thị các phần tử trên cùng 1 hàng */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    gap: 10px; /* Khoảng cách giữa các phần tử */
+    
+  }
+  .progress-bar {
+    width: 75px; /* Độ dài của progress bar */
+    height: 5px; /* Chiều cao của progress bar */
+    background-color:#EF6820;
+    border-radius: 5px;
+  }
+  .text-content
+  {
+    margin-top: 20px;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    
+  }
+  .progress-bar1
+  {
+    width: 75px; /* Độ dài của progress bar */
+    height: 5px; /* Chiều cao của progress bar */
+    background-color:#EF6820;
+    border-radius: 5px;
+  }
+  .verify-info span
+  {
+    font-size: 18px;
+    color: #101828;
+    font-weight: bold;
+    
+  }
+  .verify-info
+  {
+    height: 102px;
+  }
+  .btn-back {
+    margin-top: 15px;
+    height: 44px; 
+    width: 98px;
+    border-radius: 10px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    border: 0.1px solid rgb(200, 176, 176); 
+    background-color: white; 
+    transition: all 0.3s ease; 
+  }
+  .btn-back h6
+  { 
+      padding-top: 10px;
+      color: black;
+      font-size: 16px;
+      text-align: center;
+  }
+  .btn-continuos
+  {   
+      margin-top: 15px;
+      height: 44px;
+      width: 65%;
+      background-color: #E04F16;
+      border-radius: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-left: 10px;
+  }
+  .btn-continuos h5
+  {
+      padding-top: 10px;
+      font-size: 16px;
+      text-align: center;
+      color: white;
+  }
+  .container2
+  {
+      
+      height: 100%;
+      width: 100%;
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      
+     
+  }

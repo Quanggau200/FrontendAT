@@ -1,0 +1,27 @@
+.container
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-continuos
+{   
+    margin-top: 10px;
+    height: 44px;
+    width: 343px;
+    background-color: #E04F16;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.btn-continuos h5
+{
+    margin-top: 10px;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,31 @@
+.container
+{
+     font-family: 'Inter';
+     height: 100%;
+     margin: 0;
+     overflow: hidden;
+}
+.header-setting
+{
+    margin: 10px 10px;
+    color: black;
+    font-size: 20px;
+}
+.col
+{
+    margin-top: 2px;
+}
+.col-11 span
+{
+    font-size: 18px;
+    color: black;
+}
+.col-12
+{
+    display: flex;
+    position: relative;
+}
+.row-item
+{
+    margin: 10px 10px;
+}
